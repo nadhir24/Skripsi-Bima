@@ -30,7 +30,7 @@
     ".next/types/**/*.ts",
     "app/page.tsx",
     "components/button.tsx",
-    "components/avatars.tsx",
+    "components/avatars.jsx",
     "components/cake.tsx"
 , "app/login/layout.tsx", "components/card.tsx", "app/Belanja/page.tsx", "components/placement.tsx", "app/login/page.jsx", "app/about/layout.tsx"  ],
   "exclude": ["node_modules"]
