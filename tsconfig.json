@@ -32,6 +32,6 @@
     "components/button.tsx",
     "components/avatars.tsx",
     "components/cake.tsx"
-, "app/login/layout.tsx", "components/card.tsx", "app/Belanja/page.tsx", "components/placement.tsx", "app/login/page.jsx"  ],
+, "app/login/layout.tsx", "components/card.tsx", "app/Belanja/page.tsx", "components/placement.tsx", "app/login/page.jsx", "app/about/layout.tsx"  ],
   "exclude": ["node_modules"]
 }
